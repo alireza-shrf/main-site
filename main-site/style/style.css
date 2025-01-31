@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.image1 {
+    color: white;
+    background-image: url(https://newsroom.cdn.bugatti-media.com/667499268f9399fbd36b30c1/lg);
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+    padding-bottom: 250px;
+}
+
+.head-info {
+    width: 100%;
+    color: white;
+    margin: auto;
+    
+
+}
+
+#lamaque,
+#hyper,
+#lifestyle {
+    color: white;
+  
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+   float: left;
+    margin-left: 50px ;
+    cursor: pointer;
+    width: 10%;
+
+
+}
+
+#button-img {
+    color: white;
+    border: solid 1px;
+    background-color: transparent;
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px;
+    
+    width: 25%;
+    margin: 90px auto;
+    height: 50px;
+
+}
+
+#button-img:hover {
+    color: rgb(178, 178, 178);
+}
+
+h3 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+
+.image2 {
+    color: white;
+    background-image: url(https://newsroom.cdn.bugatti-media.com/6734db2cf63b11bc48318009/original);
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+    
+
+}
+
+#h-image2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#p-image2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#b-image2 {
+    display: block;
+    color: white;
+    border: solid 1px;
+    background-color: transparent;
+    text-decoration: none;
+    width: 30%;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 10px 3px 10px 3px;
+    letter-spacing: 1em;
+    margin: 90px auto;
+    height: 50px;
+}
+
+#b-image2:hover {
+    color: rgb(178, 178, 178);
+    ;
+}
+
+.image3 {
+    color: white;
+}
+
+#p-image3 {
+    margin-bottom: 50px;
+    font-size: 20px;
+    text-align: center
+    
+}
+
+.a-images{
+  display: flex;
+  height: 50rem;
+  gap: 3rem;
+}
+.a-images>div{
+    flex: 1;
+    background-size: auto 100%;
+    background-position: center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+
+}
+
+.small-p1 , .small-p2 , .small-p3{
+    text-align: center;
+    letter-spacing: 0.4;
+    font-size: 15px;
+    margin-top: 58px;
+}
+.big-p1 , .big-p2 ,.big-p3{
+    text-align: center;
+    margin-top: 42px;
+    font-size: 35px;
+    width: 100%;
+
+}
+#b-footer1{
+    position: absolute;
+    bottom: 8px;
+
+}
+
+footer{
+    color: white;
+    background-color: rgb(44, 44, 44);
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left:100px ;
+    margin-bottom: 50px;
+}
+.columns{
+    columns: 2;
+    margin-left: 100px;
+ 
+}
+
+.column1{
+    text-decoration-line: none;
+    color: rgb(95, 95, 95);
+}
+#a-column1{
+    text-decoration-line: none;
+    color: white;
+}
+.column2{
+    text-decoration-line: none;
+    color:rgb(95, 95, 95);
+}
+#a-column2{
+    text-decoration-line: none;
+    color: white;
+    
+}
